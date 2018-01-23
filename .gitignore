@@ -1,0 +1,5 @@
+# ignore directory
+node_modules
+
+# ignore aapl DS
+.DS_Store
